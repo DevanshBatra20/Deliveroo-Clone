@@ -22,6 +22,7 @@ Deliveroo Clone with REACT NATIVE! (Navigation, Redux, Tailwind CSS & Sanity.io)
    <img align="center" alt="React"  width="180" src="https://user-images.githubusercontent.com/72523104/232771431-01cfd77b-142b-456f-ad23-c10f26f76093.jpeg">
    <img align="center" alt="React"  width="180" src="https://user-images.githubusercontent.com/72523104/232771431-01cfd77b-142b-456f-ad23-c10f26f76093.jpeg">
   </div>
+  <br />
   
   ### :space_invader: Tech Stack
 
