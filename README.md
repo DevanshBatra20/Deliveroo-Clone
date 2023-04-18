@@ -8,4 +8,10 @@
 Deliveroo Clone with REACT NATIVE! (Navigation, Redux, Tailwind CSS & Sanity.io)
   </p>
   
+  ## :star2: About the Project
+
+<!-- Screenshots -->
+
+### :camera: Screenshots
+  
   
