@@ -16,10 +16,11 @@ Deliveroo Clone with REACT NATIVE! (Navigation, Redux, Tailwind CSS & Sanity.io)
 ### :camera: Screenshots![2]
 
   
-  
+  <div style="display: inline_block" align="center"><br>
   <img align="center" alt="React"  width="180" src="https://user-images.githubusercontent.com/72523104/232770927-54f69913-4f78-4cfe-8b6c-0f33b11e5672.jpeg">
   <img align="center" alt="React"  width="180" src="(https://user-images.githubusercontent.com/72523104/232771306-86829163-00bd-4f73-b4e2-258f4f76a10e.jpeg">
    <img align="center" alt="React"  width="180" src="https://user-images.githubusercontent.com/72523104/232771431-01cfd77b-142b-456f-ad23-c10f26f76093.jpeg">
    <img align="center" alt="React"  width="180" src="https://user-images.githubusercontent.com/72523104/232771431-01cfd77b-142b-456f-ad23-c10f26f76093.jpeg">
+  </div>
   
  
